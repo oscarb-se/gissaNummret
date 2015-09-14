@@ -1,9 +1,9 @@
-public class GuessNumber {
+
   
-}import java.util.Random;
+import java.util.Random;
 import java.util.Scanner;
  
-public class GissaNummerMain {
+public class GuessNumber {
 
 	public static int number, guess, maxValue;
 	public static Scanner scan = new Scanner(System.in);
@@ -44,5 +44,4 @@ public class GissaNummerMain {
 	
 }
 
-  }
-}
+ 
